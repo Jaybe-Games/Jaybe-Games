@@ -1,0 +1,3 @@
+- 👋 Hi, we are Jaybe Games!
+- 👀 We are crafting Visual Novel's
+- 🌱 We are some beginners in C, Javscript, Python and Ren'Py
